@@ -1,0 +1,36 @@
+Package	IsFragile: false	IsOverburdened: true	L/W/H: 34,63,25
+Package	IsFragile: false	IsOverburdened: false	L/W/H: 19,54,35
+Package	IsFragile: false	IsOverburdened: true	L/W/H: 37,98,36
+Package	IsFragile: false	IsOverburdened: true	L/W/H: 83,16,90
+Letter
+Package	IsFragile: true	IsOverburdened: false	L/W/H: 26,17,35
+Package	IsFragile: false	IsOverburdened: true	L/W/H: 61,81,61
+Letter
+Package	IsFragile: true	IsOverburdened: true	L/W/H: 64,79,60
+Package	IsFragile: true	IsOverburdened: false	L/W/H: 23,12,25
+Letter
+Letter
+Package	IsFragile: true	IsOverburdened: false	L/W/H: 51,10,14
+Package	IsFragile: false	IsOverburdened: true	L/W/H: 75,81,65
+Package	IsFragile: true	IsOverburdened: true	L/W/H: 33,77,85
+Letter
+Letter
+Letter
+Package	IsFragile: false	IsOverburdened: false	L/W/H: 21,37,19
+Package	IsFragile: false	IsOverburdened: true	L/W/H: 51,40,88
+Letter
+Package	IsFragile: true	IsOverburdened: true	L/W/H: 70,40,60
+Letter
+Letter
+Package	IsFragile: false	IsOverburdened: false	L/W/H: 46,30,12
+Letter
+Package	IsFragile: true	IsOverburdened: true	L/W/H: 80,10,31
+Package	IsFragile: false	IsOverburdened: true	L/W/H: 79,53,44
+Letter
+Letter
+Package	IsFragile: false	IsOverburdened: true	L/W/H: 89,21,87
+Letter
+Package	IsFragile: false	IsOverburdened: true	L/W/H: 70,78,38
+Letter
+Letter
+Package	IsFragile: true	IsOverburdened: true	L/W/H: 73,65,95

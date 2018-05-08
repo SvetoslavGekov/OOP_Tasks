@@ -1,0 +1,3 @@
+Total number of packages: 47
+Total number of fragile packages: 24
+Percent fragile packages: 51.06382978723404

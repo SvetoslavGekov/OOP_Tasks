@@ -1,0 +1,3 @@
+Fuel: DIESEL	Total litres: 2542
+Fuel: GAS	Total litres: 1627
+Fuel: GASOLINE	Total litres: 1997

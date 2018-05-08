@@ -1,0 +1,5 @@
+Pump: 1	Total fuelings: 53
+Pump: 2	Total fuelings: 52
+Pump: 3	Total fuelings: 52
+Pump: 4	Total fuelings: 44
+Pump: 5	Total fuelings: 51
